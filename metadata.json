@@ -1,0 +1,6 @@
+{
+  "name": "VISTA — Visual Intelligence & Scene Translation Assistant",
+  "description": "Assistive AI visual companion for people who are blind or have low vision. Point. Ask. Understand.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
